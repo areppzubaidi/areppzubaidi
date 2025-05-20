@@ -1,7 +1,7 @@
 
 ![DevOps Banner](https://user-images.githubusercontent.com/125878564/270003417-4e37a0c4-9492-4b16-8613-2e2c236330f1.gif)
 
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff;">Nur Ariff Zubaidi</span></h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff;">Ariff</span></h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJidzJmYnBhbXBhcWUxdG8yeXptMmx3MGJkeWozdmEza2c1djljZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif" width="300" />
