@@ -12,8 +12,9 @@
 <h3 align="center">💻 Cloud DevOps Engineer | 🔧 Infra as Code | 🚀 CI/CD Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+DevOps+Engineer+in+Training;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Automating+Everything+with+CI%2FCD+%7C+IaC;Learning+Every+Single+Day!+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+DevOps+Engineer+in+Training;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Automating+Everything+with+CI%2FCD+%7C+IaC;Learning+Every+Single+Day!+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://areppzubaidi.github.io/developerFolio/" target="_blank">
