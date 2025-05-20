@@ -73,9 +73,6 @@
 </p>
 
 <!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areppzubaidi&layout=compact&theme=github_dark" width="48%" />
-</p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
