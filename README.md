@@ -2,6 +2,13 @@
 ![DevOps Banner](https://user-images.githubusercontent.com/125878564/270003417-4e37a0c4-9492-4b16-8613-2e2c236330f1.gif)
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff;">Nur Ariff Zubaidi</span></h1>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJidzJmYnBhbXBhcWUxdG8yeXptMmx3MGJkeWozdmEza2c1djljZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif" width="300" />
+</p>
+
+
+
 <h3 align="center">💻 Cloud DevOps Engineer | 🔧 Infra as Code | 🚀 CI/CD Enthusiast</h3>
 
 <p align="center">
@@ -99,4 +106,9 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjExb3p6aW5qaTQ0NTYzcTBobDA5NXF1Mndxa2VjNXd2Z2ZmeW11dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vACLXgansDXwHzzI/giphy.gif" width="400"/>
 </p>
